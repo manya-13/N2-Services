@@ -1,0 +1,7 @@
+pandas
+numpy
+rapidfuzz
+requests
+beautifulsoup4
+email-validator
+openpyxl
